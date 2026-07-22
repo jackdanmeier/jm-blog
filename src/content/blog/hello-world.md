@@ -6,17 +6,13 @@ tags:
   - personal
 draft: false
 ---
+This is my first blog post.
 
-This is jacks first blog post. I'm writing this in **Obsidian** and publishing with a simple `git push`.
+## Why I have this blog
 
-## Why I built this
-
-I wanted a blog that:
-
-- Lives in my Obsidian vault so I write in my usual environment
-- Deploys automatically when I push to GitHub
-- Stays out of my way — no CMS, no admin panel, just markdown
-
+I wanted a blog to share my ideas in a public space. 
+I want a way to gain feedback and different perspecives on my thinking.
+I wanted a ledger to show what I have been working on and what I am working on.
 ## What's next
 
-More posts about things I find interesting. Stay tuned.
+More posts about things I find interesting. 
