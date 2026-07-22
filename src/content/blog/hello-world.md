@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 
-This is my first blog post. I'm writing this in **Obsidian** and publishing with a simple `git push`.
+This is jacks first blog post. I'm writing this in **Obsidian** and publishing with a simple `git push`.
 
 ## Why I built this
 
