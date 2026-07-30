@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-world.md",
+                "file": "Hello World!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello-world"
+              "title": "Hello World!"
+            }
+          },
+          {
+            "id": "34122804b7ade848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The impact of a single person.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The impact of a single person"
+            }
+          },
+          {
+            "id": "4c903213ab6aa57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The impact of a single person.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The impact of a single person"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,8 +212,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ead50850ff252050",
+  "active": "4c903213ab6aa57c",
   "lastOpenFiles": [
-    "hello-world.md"
+    "Chasing fullfilment.md",
+    "The impact of a single person.md",
+    "Hello World!.md"
   ]
 }
