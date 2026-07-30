@@ -1,4 +1,11 @@
-Chasing money is a distraction, chasing fulfilment is the way to go
+---
+title: "Chasing Fulfilment"
+date: 2026-07-30
+description: "Why fulfilment matters more than money"
+tags:
+  - personal
+draft: false
+---
 
 I follow a youtuber, very famous, successful and he has essentially reached the goal he set for himself. He went from small to one of the largest channels on the platform, then went on to branch out into entrepreneurship, and now he has reached financial freedom. 
 

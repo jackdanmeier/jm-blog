@@ -1,3 +1,12 @@
+---
+title: "The Impact of a Single Person"
+date: 2026-07-30
+description: "How one person can change an entire industry"
+tags:
+  - personal
+draft: false
+---
+
 I work for a man called Björn Frantzen. He is in charge of the only three Michelin star restaurant in Sweden, and the only chef in the world to have three restaurants with three stars. Before he turned to cheffing he was a promising football player, but had to stop due to a heart condition.
 
 I asked some friends and co-workers in the kitchen if they think Sweden would have any three star restaurant if he had never been a chef. I got mixed replies. Some thought we would have more. Most thought we would have none. I am inclined to agree with the latter.
