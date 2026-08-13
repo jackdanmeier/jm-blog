@@ -1,7 +1,7 @@
 ---
-title: "The Impact of a Single Person"
-date: 2026-07-30
-description: "How one person can change an entire industry"
+title: The Impact of a Single Person
+date: 2026-07-22
+description: How one person can change an entire industry
 tags:
   - personal
 draft: false
