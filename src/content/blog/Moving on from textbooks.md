@@ -1,8 +1,8 @@
 ---
 title: Moving on from textbooks
-date: 2026-12-08
+date: 2026-08-12
 description: An argument for moving on from an outdated medium
-tags:
+tags: []
 draft: false
 ---
 Textbooks have been apart of the educational system since the begining of the industrial revolution, which is what has largely influenced the designed the current school system. 

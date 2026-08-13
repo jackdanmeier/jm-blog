@@ -148,16 +148,16 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"Hello World!.md": {
-	id: "Hello World!.md";
-  slug: "hello-world";
+"The impact of a single person.md": {
+	id: "The impact of a single person.md";
+  slug: "the-impact-of-a-single-person";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"The impact of a single person.md": {
-	id: "The impact of a single person.md";
-  slug: "the-impact-of-a-single-person";
+"templates/Moving on from textbooks.md": {
+	id: "templates/Moving on from textbooks.md";
+  slug: "templates/moving-on-from-textbooks";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
